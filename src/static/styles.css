@@ -96,6 +96,14 @@ section h3 {
 }
 
 /* New Layout Styles */
+.announcement-banner {
+  background-color: var(--success);
+  color: var(--primary-text);
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
+
 .main-content-layout {
   display: flex;
   flex-direction: column;
